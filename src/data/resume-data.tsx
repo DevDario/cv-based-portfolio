@@ -97,7 +97,7 @@ export const RESUME_DATA = {
         "JS",
       ],
       description: "A project managment system",
-      logo: ,
+      logo:"" ,
       link: {
         label: "costs-web",
         href: "https://costs-web.vercel.app/",
@@ -108,7 +108,7 @@ export const RESUME_DATA = {
       techStack: ["Side Project", "ReactJS", "SCSS", "Vite"],
       description:
         "Simple E-mail Browser Tool",
-      logo: ,
+      logo:"" ,
       link: {
         label: "purple-bird",
         href: "https://purple-bird.vercel.app/",
