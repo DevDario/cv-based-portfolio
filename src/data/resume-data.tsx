@@ -71,7 +71,7 @@ export const RESUME_DATA = {
       link: "",
       badges: ["Remote"],
       title: "Frontend Developer",
-      logo: ,
+      logo: "",
       start: "2021",
       end: "2023",
       description:
