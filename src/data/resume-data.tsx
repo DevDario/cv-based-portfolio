@@ -60,7 +60,7 @@ export const RESUME_DATA = {
       link: "https://carvalho-artes.vercel.app",
       badges: ["Remote"],
       title: "Web Developer",
-      logo: ,
+      logo:"" ,
       start: "2021",
       end: "2022",
       description:
