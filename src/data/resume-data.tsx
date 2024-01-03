@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Frontend Developer & UI/UX Designer",
   summary:
-    "As a Frontend Engineer, I have successfully taken multiple products from 0 to 1. Since 2021 I've been building real life projects that helps solving a real life problems. Currently, I work mostly with JavaScript, React, SQL, and MySQL.",
+    "As a Frontend Engineer, I have successfully taken multiple products from 0 to 1. Since 2021 I've been building real life projects that helps solving real life problems. Currently, I work mostly with JavaScript, & ReactJs",
   avatarUrl: "https://avatars.githubusercontent.com/u/101002847?s=400&u=cb446dd87af7a26637a580e88d13b5785b202d14&v=4",
   personalWebsiteUrl: "https://github.com/DevDario/",
   contact: {
