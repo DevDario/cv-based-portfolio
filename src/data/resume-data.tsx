@@ -75,7 +75,7 @@ export const RESUME_DATA = {
       start: "2021",
       end: "2023",
       description:
-        "Working as a freelancer frontent developer in various platforms, such as Workana, and Freelancer.",
+        "Worked as a freelancer frontent developer in various platforms, such as Workana, and Freelancer.",
     },
   ],
   skills: [
